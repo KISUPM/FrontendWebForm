@@ -1,0 +1,13 @@
+#displayDataInput{
+    /* border:1px solid black; */
+    /* width:20%; */
+    /* margin:auto; */
+    margin-top:10px;
+    padding:10px;
+}
+
+.displayText{
+    /* border:1px solid lightblue; */
+    margin:0;
+    text-align: left;
+}
